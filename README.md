@@ -1,7 +1,4 @@
-## Notes
-My personal notes about topics I study.
-
-### Links
+### Notes
 
 - [JS](https://www.notion.so/zaelgohary/JS-Notes-46a4059fefcf46b793d0cfd07b46e0bc)
 - [Redux](https://www.notion.so/zaelgohary/React-w-Redux-Notes-87421bc2fbc74071a42413a9af559cf6)
@@ -15,4 +12,3 @@ My personal notes about topics I study.
 - [Helm](https://www.notion.so/zaelgohary/Helm-b61b18b981bc47ebbf5998ac686fa3da)
 - [ZINIT](https://www.notion.so/zaelgohary/ZINIT-7df50e35442c4db8a904fd7b28df9a46)
 - [Vitest](https://www.notion.so/zaelgohary/Vitest-d4d28da1260248dc92b004a9ba97b7ea)
-
